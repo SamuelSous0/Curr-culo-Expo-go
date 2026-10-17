@@ -1,1 +1,1 @@
-# Curr-culo-Expo-go
+# Currículo Express Mobile — React Native (Expo)
